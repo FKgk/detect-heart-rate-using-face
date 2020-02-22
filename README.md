@@ -2,13 +2,13 @@
 
 ## Origin Code
 1. [eulerian-remote-heartrate-detection](https://github.com/rohintangirala/eulerian-remote-heartrate-detection)
-using Cascade, Pyramid and heartrate-detection
+- using Cascade, Pyramid and heartrate-detection
 
 2. [Heart-rate-measurement-using-camera](https://github.com/habom2310/Heart-rate-measurement-using-camera)
-using face detector
+- using face detector
 
 3. [QRS-detection](https://github.com/KChen89/QRS-detection)
-
+- using QRS detector
 
 ## Dataset
 ### Emotion elicitation trials of [mahnob-db](https://mahnob-db.eu/hci-tagging/)
@@ -55,5 +55,3 @@ conda env create -f ./environment.yml
 - Cut the video per 10 sec
 - Change from bdf format to csv format
 - Detecting QRS and get heartrate (using EXG2 signal)
-
-
