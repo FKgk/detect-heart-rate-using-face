@@ -1,0 +1,16 @@
+pyEDFlib==0.1.15
+cmake==3.16.3
+dlib==19.19.0
+imutils==0.5.3
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.1.0
+jupyter-core==4.6.1
+notebook==6.0.3
+numpy==1.18.1
+opencv-contrib-python==4.2.0.32
+pandas==1.0.1
+prompt-toolkit==3.0.3
+pyEDFlib==0.1.15
+scikit-learn==0.22.1
+scipy==1.4.1
