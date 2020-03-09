@@ -29,7 +29,7 @@
 - MAE: 7.6
 
 
-## HOW to run
+## How to run
 ```
 git clone https://github.com/FKgk/detect-heart-rate-using-face.git
 cd detect-heart-rate-using-face
@@ -55,3 +55,7 @@ conda env create -f ./environment.yml
 - Cut the video per 10 sec
 - Change from bdf format to csv format
 - Detecting QRS and get heartrate (using EXG2 signal)
+
+
+## [Paper](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/paper.md)
+- If you are interested in this topic, I suggest to take a look at the link.
