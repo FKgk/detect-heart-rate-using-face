@@ -5,10 +5,13 @@
 ### 2019
 - [Improved Heart-Rate Measurement from
 Mobile Face Videos](https://www.mdpi.com/2079-9292/8/6/663)
+
 - [Multi-person remote heart-rate measurement from
 human faces - a CNN based approach](https://www.researchgate.net/publication/337772531_Multi-person_remote_heart-rate_measurement_from_human_faces_-_a_CNN_based_approach)
--[Robust Remote Heart Rate Estimation from Face Utilizing Spatial-temporal Attention](https://www.researchgate.net/publication/332242335_Robust_Remote_Heart_Rate_Estimation_from_Face_Utilizing_Spatial-temporal_Attention)
--[Using neural networks to enhance the quality of ROIs for video based remote heart rate measurement from human faces](https://ieeexplore.ieee.org/document/8661915https://ieeexplore.ieee.org/document/8661915)
+
+- [Robust Remote Heart Rate Estimation from Face Utilizing Spatial-temporal Attention](https://www.researchgate.net/publication/332242335_Robust_Remote_Heart_Rate_Estimation_from_Face_Utilizing_Spatial-temporal_Attention)
+
+- [Using neural networks to enhance the quality of ROIs for video based remote heart rate measurement from human faces](https://ieeexplore.ieee.org/document/8661915https://ieeexplore.ieee.org/document/8661915)
 
 
 ### 2018
