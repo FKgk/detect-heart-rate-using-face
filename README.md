@@ -28,6 +28,19 @@
 - RMSE: 8.8
 - MAE: 7.6
 
+## Another Dataset
+### [COHFACE](https://www.idiap.ch/dataset/cohface)
+- this dataset contains RGB video sequences of faces, synchronized with heart-rate and breathing-rate of the recorded subjects.
+- 160 one-minute long video sequences of 40 subjects (12 females and 28 males)
+- Logitech HD C525 (640x480 pixels, 20 fps)
+
+### [UBFC-RPPG](https://sites.google.com/view/ybenezeth/ubfcrppg)
+- datasets which are focused specifically for rPPG analysis
+- Logitech C920 HD Pro (640x480 pixels, 30 fps)
+
+### [PURE](https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse)
+- SVS-Vistek GmbH (640x480 pixels, 30 fps)
+- The 10 persons (8 male, 2 female) that were recorded in 6 different setups resulting in a total number of 60 sequences of 1 minute each.
 
 ## How to run
 ```
