@@ -32,3 +32,11 @@ human faces - a CNN based approach](https://www.researchgate.net/publication/337
 
 ### 2012
 - [Eulerian Video Magnification for Revealing Subtle Changes in the World](http://people.csail.mit.edu/mrub/evm/)
+
+---
+
+
+Heart-rate-measurement-using-camera
+
+https://github.com/MartinChristiaan/PythonVideoPulserate
+
