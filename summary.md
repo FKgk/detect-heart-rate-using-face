@@ -1,3 +1,15 @@
+- [Paper](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Paper)
+- [OpenSource](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Paper)
+- [Dataset](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Dataset)
+
+# Paper
+
+
+
+
+
+
+
 ### 2020
 - [Deep-HR: Fast Heart Rate Estimation from Face Video Under Realistic Conditions](https://arxiv.org/abs/2002.04821)
 
@@ -35,8 +47,20 @@ human faces - a CNN based approach](https://www.researchgate.net/publication/337
 
 ---
 
+# OpenSource
+- Heart-rate-measurement-using-camera
+- https://github.com/MartinChristiaan/PythonVideoPulserate
 
-Heart-rate-measurement-using-camera
+# Dataset
+## [COHFACE](https://www.idiap.ch/dataset/cohface)
+- this dataset contains RGB video sequences of faces, synchronized with heart-rate and breathing-rate of the recorded subjects.
+- 160 one-minute long video sequences of 40 subjects (12 females and 28 males)
+- Logitech HD C525 (640x480 pixels, 20 fps)
 
-https://github.com/MartinChristiaan/PythonVideoPulserate
+## [UBFC-RPPG](https://sites.google.com/view/ybenezeth/ubfcrppg)
+- datasets which are focused specifically for rPPG analysis
+- Logitech C920 HD Pro (640x480 pixels, 30 fps)
 
+## [PURE](https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse)
+- SVS-Vistek GmbH (640x480 pixels, 30 fps)
+- The 10 persons (8 male, 2 female) that were recorded in 6 different setups resulting in a total number of 60 sequences of 1 minute each.
