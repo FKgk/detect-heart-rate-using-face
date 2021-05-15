@@ -21,26 +21,11 @@
 - RMSE: 9.6
 - MAE: 6.0
 
-
 ## Reference
 - We test the video(about 8) of smartphone(Galaxy A8) using file of Dlib(fixed_position)-Pyramid-eulerian
 - this best Result is following
 - RMSE: 8.8
 - MAE: 7.6
-
-## Another Dataset
-### [COHFACE](https://www.idiap.ch/dataset/cohface)
-- this dataset contains RGB video sequences of faces, synchronized with heart-rate and breathing-rate of the recorded subjects.
-- 160 one-minute long video sequences of 40 subjects (12 females and 28 males)
-- Logitech HD C525 (640x480 pixels, 20 fps)
-
-### [UBFC-RPPG](https://sites.google.com/view/ybenezeth/ubfcrppg)
-- datasets which are focused specifically for rPPG analysis
-- Logitech C920 HD Pro (640x480 pixels, 30 fps)
-
-### [PURE](https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse)
-- SVS-Vistek GmbH (640x480 pixels, 30 fps)
-- The 10 persons (8 male, 2 female) that were recorded in 6 different setups resulting in a total number of 60 sequences of 1 minute each.
 
 ## How to run
 ```
@@ -70,5 +55,5 @@ conda env create -f ./environment.yml
 - Detecting QRS and get heartrate (using EXG2 signal)
 
 
-## [Paper](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/paper.md)
+## [Summary](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md)
 - If you are interested in this topic, I suggest to take a look at the link.
