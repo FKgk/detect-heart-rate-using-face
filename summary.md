@@ -1,5 +1,5 @@
 - [Paper](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Paper)
-- [OpenSource](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Paper)
+- [Github](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Github)
 - [Dataset](https://github.com/FKgk/detect-heart-rate-using-face/blob/master/summary.md#Dataset)
 
 # Paper
@@ -38,6 +38,8 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - Non-contact Measurement of Heart Rate Based on Facial Video [Paper](https://ieeexplore.ieee.org/abstract/document/9021402)
 - Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks [Paper](https://www.mdpi.com/1424-8220/19/14/3079)
 - 3D Convolutional Neural Networks for Remote Pulse Rate Measurement and Mapping from Facial Video [Paper](https://www.mdpi.com/2076-3417/9/20/4364)
+- Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Remote_Heart_Rate_Measurement_From_Highly_Compressed_Facial_Videos_An_ICCV_2019_paper.html) [Code](https://github.com/ZitongYu/STVEN_rPPGNet)
+- Remote photoplethysmograph signal measurement from facial videos using spatio-temporal networks [Paper](https://arxiv.org/abs/1905.02419) [Code](https://github.com/ZitongYu/PhysNet)
 
 ## 2018
 - Heart Rate Measurement Using Face Detection in Video [Paper](https://ieeexplore.ieee.org/document/8484779)
@@ -64,6 +66,7 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - heart rate variability extraction from videos signals - ICA vs. EVM Comparison [Paper](https://ieeexplore.ieee.org/abstract/document/7882667)
 - Video-Based Heartbeat Rate Measuring Method Using Ballistocardiography [Paper](https://ieeexplore.ieee.org/abstract/document/7935342)
 - Unsupervised skin tissue segmentation for remote photoplethysmography [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865517303860)
+- Measuring Heart Rate During Physical Exercise by Subspace Decomposition and Kalman Smoothing [Paper](https://ieeexplore.ieee.org/document/8119878) [Code](https://github.com/AlessandraGalli/PPG)
 
 ## 2016
 - Algorithmic Principles of Remote PPG [Paper](https://ieeexplore.ieee.org/document/7565547)
@@ -98,9 +101,41 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 
 ---
 
-# OpenSource
-- Heart-rate-measurement-using-camera
-- https://github.com/MartinChristiaan/PythonVideoPulserate
+# Github
+- [rppg-web](https://github.com/ubicomplab/rppg-web)
+- [MetaPhys](https://github.com/xliucs/MetaPhys)
+- [MTTS-CAN](https://github.com/xliucs/MTTS-CAN)
+- [Meta-rPPG](https://github.com/eugenelet/Meta-rPPG)
+- [PythonVideoPulserateV2](https://github.com/MartinChristiaan/PythonVideoPulserateV2)
+- [PythonVideoPulserate](https://github.com/MartinChristiaan/PythonVideoPulserate)
+- [Deep-rPPG: Camera-based pulse estimation using deep learning tools](https://github.com/terbed/Deep-rPPG)
+- [STVEN_rPPGNet](https://github.com/ZitongYu/STVEN_rPPGNet)
+- [PhysNet](https://github.com/ZitongYu/PhysNet)
+- [NAS-HR](https://github.com/LuPaoPao/NAS-HR)
+- [Heart-rate-measurement-using-camera](https://github.com/habom2310/Heart-rate-measurement-using-camera)
+- [Robust Heart rate estimation from facial videos](https://github.com/nasir6/rPPG)
+- [PPG](https://github.com/qiriro/PPG)
+- [PPG Heart Rate Classifier](https://github.com/galkn/PPG-Heart-Rate-Classifier)
+- [Semi-supervised pattern recognition in PPG signals](https://github.com/galkn/PPG-Pattern-Recognition)
+- [Remote Heart Rate Detection through Eulerian Magnification of Face Videos](https://github.com/rohintangirala/eulerian-remote-heartrate-detection)
+- [rPPG - remote heart rate detection / photoplethysmography software development](https://github.com/marnixnaber/rPPG)
+- [Heartbeat: Measuring heart rate using remote photoplethysmography (rPPG)](https://github.com/prouast/heartbeat)
+
+- [iPhys: An Open Non-Contact Imaging-Based Physiological Measurement Toolbox](https://github.com/danmcduff/iphys-toolbox)
+- [Heart Rate Variability analysis](https://github.com/Aura-healthcare/hrv-analysis)
+- [HeartPy - Python Heart Rate Analysis Toolkit](https://github.com/paulvangentcom/heartrate_analysis_python)
+- [BioSPPy - Biosignal Processing in Python](https://github.com/PIA-Group/BioSPPy)
+- [MNE-Python](https://github.com/mne-tools/mne-python)
+- [pyVHR](https://github.com/phuselab/pyVHR)
+- [Pyhrv](https://github.com/PGomes92/pyhrv)
+- [Pythonic package for Heart Rate Variability Analysis](https://github.com/rhenanbartels/hrv)
+- [PPGI-Toolbox](https://github.com/partofthestars/PPGI-Toolbox)
+- [peak-detector](https://github.com/alistairewj/peak-detector)
+- [ppgprocessing](https://github.com/thinkng/ppgprocessing)
+- [HRVAS](https://github.com/jramshur/HRVAS)
+- [bob](https://www.idiap.ch/software/bob/)
+
+---
 
 # Dataset
 ## [COHFACE](https://www.idiap.ch/dataset/cohface)
