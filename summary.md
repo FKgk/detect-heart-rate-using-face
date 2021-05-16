@@ -192,7 +192,6 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
 - VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
 
-
 ## [VIPL-HR-V2R](http://vipl.ict.ac.cn/view_database.php?id=17)
 - 500 subjects
 - RealSense F200 (960x720 pixels, )
