@@ -5,6 +5,7 @@
 # Paper
 ## 2021
 - Systematic analysis of video-based pulse measurement from compressed videos [Paper](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-1-494&id=444959)
+- UBFC-Phys: A Multimodal Database For Psychophysiological Studies Of Social Stress [Paper](https://ieeexplore.ieee.org/document/9346017)
 
 ## 2020
 - Deep-HR: Fast Heart Rate Estimation from Face Video Under Realistic Conditions [Paper](https://arxiv.org/abs/2002.04821)
@@ -25,7 +26,8 @@
 - Non-Contact HR Monitoring via Smartphone and Webcam during Different Respiratory Maneuvers and Body Movements [Paper](https://ieeexplore.ieee.org/abstract/document/9103223)
 - Remote Heart Rate Estimation Based on 3D Facial Landmarks [Paper](https://ieeexplore.ieee.org/abstract/document/9176563)
 - Visual Heart Rate Estimation from Facial Video Based on CNN [Paper](https://ieeexplore.ieee.org/abstract/document/9248356)
-- Visual Heart Rate Estimation with Convolutional Neural Network [Paper](https://www.researchgate.net/publication/329044207_Visual_Heart_Rate_Estimation_with_Convolutional_Neural_Network)
+- Visual Heart Rate Estimation with Convolutional Neural Network [Paper](https://www.researchgate.net/publication/329044207_Visual_Heart_Rate_Estimation_with_Convolutional_Neural_Network) [Poster](https://cmp.felk.cvut.cz/~spetlrad/ecg-fitness/bmcv2018-poster_small.pdf)
+- The 1st Challenge on Remote Physiological Signal Sensing (RePSS) [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w19/Li_The_1st_Challenge_on_Remote_Physiological_Signal_Sensing_RePSS_CVPRW_2020_paper.html)
 
 ## 2019
 - Improved Heart-Rate Measurement from Mobile Face Videos [Paper](https://www.mdpi.com/2079-9292/8/6/663)
@@ -40,6 +42,8 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - 3D Convolutional Neural Networks for Remote Pulse Rate Measurement and Mapping from Facial Video [Paper](https://www.mdpi.com/2076-3417/9/20/4364)
 - Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Remote_Heart_Rate_Measurement_From_Highly_Compressed_Facial_Videos_An_ICCV_2019_paper.html) [Code](https://github.com/ZitongYu/STVEN_rPPGNet)
 - Remote photoplethysmograph signal measurement from facial videos using spatio-temporal networks [Paper](https://arxiv.org/abs/1905.02419) [Code](https://github.com/ZitongYu/PhysNet)
+- RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
+- VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
 
 ## 2018
 - Heart Rate Measurement Using Face Detection in Video [Paper](https://ieeexplore.ieee.org/document/8484779)
@@ -67,6 +71,7 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - Video-Based Heartbeat Rate Measuring Method Using Ballistocardiography [Paper](https://ieeexplore.ieee.org/abstract/document/7935342)
 - Unsupervised skin tissue segmentation for remote photoplethysmography [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865517303860)
 - Measuring Heart Rate During Physical Exercise by Subspace Decomposition and Kalman Smoothing [Paper](https://ieeexplore.ieee.org/document/8119878) [Code](https://github.com/AlessandraGalli/PPG)
+- PURE: A Dataset of Public Requirements Documents [Paper](https://ieeexplore.ieee.org/document/8049173)
 
 ## 2016
 - Algorithmic Principles of Remote PPG [Paper](https://ieeexplore.ieee.org/document/7565547)
@@ -95,6 +100,7 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 
 ## 2011
 - Measuring Pulse Rate with a Webcam – a Non-contact Method for Evaluating Cardiac Activity [Paper](https://ieeexplore.ieee.org/abstract/document/6078233)
+- A Multimodal Database for Affect Recognition and Implicit Tagging [Paper](https://ieeexplore.ieee.org/document/5975141)
 
 ## 2010
 - Advancements in Noncontact, Multiparameter Physiological Measurements Using a Webcam [Paper](https://ieeexplore.ieee.org/document/5599853)
@@ -138,15 +144,58 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 ---
 
 # Dataset
+## [Mahnob HCI-Tagging](https://mahnob-db.eu/hci-tagging/)
+- 30 participants (17 females and 13 males)
+- Stingray F-046C (780x580 pixels, 61 fps)
+- A Multimodal Database for Affect Recognition and Implicit Tagging [Paper](https://ieeexplore.ieee.org/document/5975141)
+- [Manual](https://mahnob-db.eu/hci-tagging/media/uploads/manual.pdf)
+
 ## [COHFACE](https://www.idiap.ch/dataset/cohface)
-- this dataset contains RGB video sequences of faces, synchronized with heart-rate and breathing-rate of the recorded subjects.
-- 160 one-minute long video sequences of 40 subjects (12 females and 28 males)
+- 40 subjects (12 females and 28 males) that were recored in 2 different setups of 2 minute each.
 - Logitech HD C525 (640x480 pixels, 20 fps)
+- A Reproducible Study on Remote Heart Rate Measurement [Paper](https://arxiv.org/abs/1709.00962)
 
 ## [UBFC-RPPG](https://sites.google.com/view/ybenezeth/ubfcrppg)
-- datasets which are focused specifically for rPPG analysis
+- 42 subjects (12 females and 30 males) that were recored in 1 minute each.
 - Logitech C920 HD Pro (640x480 pixels, 30 fps)
+- Unsupervised skin tissue segmentation for remote photoplethysmography [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865517303860)
+
+## [UBFC-Phys](https://sites.google.com/view/ybenezeth/ubfc-phys)
+- 56 participants (46 females and 10 males) that were recorded in 3 different setups
+- EO23121C RGB digital camera (1024x1024 pixels, 35 fps)
+- UBFC-Phys: A Multimodal Database For Psychophysiological Studies Of Social Stress [Paper](https://ieeexplore.ieee.org/document/9346017)
 
 ## [PURE](https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse)
+- 10 persons (2 females and 8 males) that were recorded in 6 different setups of 1 minute each.
 - SVS-Vistek GmbH (640x480 pixels, 30 fps)
-- The 10 persons (8 male, 2 female) that were recorded in 6 different setups resulting in a total number of 60 sequences of 1 minute each.
+- PURE: A Dataset of Public Requirements Documents [Paper](https://ieeexplore.ieee.org/document/8049173)
+
+## [ECG-Fitness database](https://cmp.felk.cvut.cz/~spetlrad/ecg-fitness/)
+- 17 subjects (3 females and 14 males) that were recorded in 6 different setups of 1 minute each.
+- two RGB Logitech C920 webcameras (1920x1080 pixels, 30 fps)
+- Visual Heart Rate Estimation with Convolutional Neural Network [Paper](https://www.researchgate.net/publication/329044207_Visual_Heart_Rate_Estimation_with_Convolutional_Neural_Network)
+
+## [AFRL]()
+- 300 videos of 25 participants (8 females, 17 males)
+- (658x492 pixels, 120 fps)
+- Recovering pulse rate during motion artifact with a multi-imager array for non-contact imaging photoplethysmography [Paper](https://ieeexplore.ieee.org/document/6974121)
+
+## [MMSE-HR](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)
+- 102 videos of 40 participant
+- (1040x1392 pixels, 25 fps)
+
+- Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis [Paper](https://ieeexplore.ieee.org/document/7780743)
+
+## [VIPL-HR](http://vipl.ict.ac.cn/view_database.php?id=15)
+- 107 subjects
+- Logitech C310, RealSense F200 and the front camera of HUAWEI P9 smartphone,
+- RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
+- VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
+
+
+## [VIPL-HR-V2R](http://vipl.ict.ac.cn/view_database.php?id=17)
+- 500 subjects
+- RealSense F200 (960x720 pixels, )
+- The 1st Challenge on Remote Physiological Signal Sensing (RePSS) [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w19/Li_The_1st_Challenge_on_Remote_Physiological_Signal_Sensing_RePSS_CVPRW_2020_paper.html)
+- RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
+- VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
