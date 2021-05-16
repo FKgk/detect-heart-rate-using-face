@@ -28,6 +28,8 @@
 - Visual Heart Rate Estimation from Facial Video Based on CNN [Paper](https://ieeexplore.ieee.org/abstract/document/9248356)
 - Visual Heart Rate Estimation with Convolutional Neural Network [Paper](https://www.researchgate.net/publication/329044207_Visual_Heart_Rate_Estimation_with_Convolutional_Neural_Network) [Poster](https://cmp.felk.cvut.cz/~spetlrad/ecg-fitness/bmcv2018-poster_small.pdf)
 - The 1st Challenge on Remote Physiological Signal Sensing (RePSS) [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w19/Li_The_1st_Challenge_on_Remote_Physiological_Signal_Sensing_RePSS_CVPRW_2020_paper.html)
+- Video-based Remote Physiological Measurement via Cross-verified Feature Disentangling [Paper](https://arxiv.org/abs/2007.08213) [Code](https://github.com/nxsEdson/CVD-Physiological-Measurement)
+- RPnet: A Deep Learning approach for robust R Peak detection in noisy ECG [Paper](https://arxiv.org/abs/2004.08103) [Code](https://github.com/acrarshin/RPNet)
 
 ## 2019
 - Improved Heart-Rate Measurement from Mobile Face Videos [Paper](https://www.mdpi.com/2079-9292/8/6/663)
@@ -44,6 +46,7 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - Remote photoplethysmograph signal measurement from facial videos using spatio-temporal networks [Paper](https://arxiv.org/abs/1905.02419) [Code](https://github.com/ZitongYu/PhysNet)
 - RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
 - VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
+- Video-Based Heart Rate Measurement: Recent Advances and Future Prospects [Paper](https://ieeexplore.ieee.org/abstract/document/8552414)
 
 ## 2018
 - Heart Rate Measurement Using Face Detection in Video [Paper](https://ieeexplore.ieee.org/document/8484779)
@@ -59,6 +62,9 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - Remote Pulse Rate Measurement From Near-Infrared Videos [Paper](https://ieeexplore.ieee.org/abstract/document/8370087)
 - Research on Non-contact Heart Rate Signal Detection Based on Video Image [Paper](https://ieeexplore.ieee.org/abstract/document/8720755)
 - Robust visual heart rate estimation [Paper](https://cmp.felk.cvut.cz/~spetlrad/radim_spetlik-robust_visual_heart_rate_estimation.pdf)
+- A Comparative Survey of Methods for Remote Heart Rate Detection From Frontal Face Videos [Paper](https://www.frontiersin.org/articles/10.3389/fbioe.2018.00033/full)
+- A Novel Framework for Remote Photoplethysmography Pulse Extraction on Compressed Videos [Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w27/html/Zhao_A_Novel_Framework_CVPR_2018_paper.html)
+- The OBF Database: A Large Face Video Database for Remote Physiological Signal Measurement and Atrial Fibrillation Detection [Paper](https://ieeexplore.ieee.org/document/8373836)
 
 ## 2017
 - A Reproducible Study on Remote Heart Rate Measurement [Paper](https://arxiv.org/abs/1709.00962)
@@ -180,7 +186,7 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - (658x492 pixels, 120 fps)
 - Recovering pulse rate during motion artifact with a multi-imager array for non-contact imaging photoplethysmography [Paper](https://ieeexplore.ieee.org/document/6974121)
 
-## [MMSE-HR](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset)
+## [MMSE-HR](https://binghamton.technologypublisher.com/tech/MMSE-HR_dataset_(Multimodal_Spontaneous_Expression-Heart_Rate_dataset))
 - 102 videos of 40 participant
 - (1040x1392 pixels, 25 fps)
 
@@ -198,3 +204,8 @@ human faces - a CNN based approach [Paper](https://www.researchgate.net/publicat
 - The 1st Challenge on Remote Physiological Signal Sensing (RePSS) [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w19/Li_The_1st_Challenge_on_Remote_Physiological_Signal_Sensing_RePSS_CVPRW_2020_paper.html)
 - RhythmNet: End-to-End Heart Rate Estimation From Face via Spatial-Temporal Representation [Paper](https://ieeexplore.ieee.org/abstract/document/8879658)
 - VIPL-HR: A Multi-modal Database for Pulse Estimation from Less-Constrained Face Video [Paper](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_36)
+
+---
+
+# Other
+- [The OBF Database: A Large Face Video Database for Remote Physiological Signal Measurement and Atrial Fibrillation Detection](https://ieeexplore.ieee.org/document/8373836)
