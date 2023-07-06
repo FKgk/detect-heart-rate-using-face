@@ -13,4 +13,4 @@ pandas==1.0.1
 prompt-toolkit==3.0.3
 pyEDFlib==0.1.15
 scikit-learn==0.22.1
-scipy==1.4.1
+scipy==1.10.0
