@@ -5,7 +5,7 @@ imutils==0.5.3
 jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
-jupyter-core==4.6.1
+jupyter-core==4.11.2
 notebook==6.1.5
 numpy==1.18.1
 opencv-contrib-python==4.2.0.32
